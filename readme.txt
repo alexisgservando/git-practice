@@ -1,3 +1,4 @@
+This was added in feature-readme-update branch
 This is the version I want to keep
 Hello Git!
 This is my second commit
