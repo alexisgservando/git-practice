@@ -1,3 +1,3 @@
 Hello Git!
-This is my second commit
+This line was changed in the original project
 This line is from the update-readme branch
