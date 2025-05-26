@@ -10,3 +10,5 @@ Thumbs.db
 
 # Ignore env files
 .env
+config.env
+
